@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../microfrontend-react/components"  ]
 }
